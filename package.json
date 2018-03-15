@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowled/travel-camp.git"
+  },
+  "author": "chaz-the-man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowled/travel-camp/issues"
+  },
+  "homepage": "https://github.com/nowled/travel-camp#readme"
+}
